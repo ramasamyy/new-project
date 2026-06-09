@@ -1,13 +1,22 @@
 # Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was bootstrapped with [Create React App](http://localhost:3000/)
 
 ## Available Scripts
 
 In the project directory, you can run:
 
 ### `npm start`
-
+{
+  "name": "myshop",
+  "version": "0.1.0",
+  "private": true,
+  "homepage": "https://vishnuprasath.github.io/myshop",
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  }
+}
 Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
