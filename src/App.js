@@ -70,11 +70,19 @@ function App() {
   return (
     <div className="header">
       <img src={img7} alt="logo" className="logo" />
+<<<<<<< HEAD
       <h1>texpart</h1>   
 
       <h2>Cart Items: {cart.length}</h2>
 
       <div className="products-grid">
+=======
+      <h1></h1>   
+
+      <h2>Cart Items: {cart.length}</h2>
+
+      <div className="products-gride">
+>>>>>>> 331780887e8e4e87cf8e048046791a8b9274e1e8
         {products.map((product) => (
           < div className="card" key={product.id}>
             <img
