@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/new-project/static/css/main.30e75066.css",
+    "main.js": "/new-project/static/js/main.f093979f.js",
+    "static/media/neodium magnet.jpg": "/new-project/static/media/neodium magnet.d50a56c5b14cd11ce2f3.jpg",
+    "static/media/neodium.webp": "/new-project/static/media/neodium.ecc4f95d48c3ef53647b.webp",
+    "static/media/neodymium-rare-earth-disc-magnet-500x500.webp": "/new-project/static/media/neodymium-rare-earth-disc-magnet-500x500.2b2fc979bdba8c2d6715.webp",
+    "static/media/disco-ima-neodimio-n35-niquel-20x1-5-mm-imashop-01.webp": "/new-project/static/media/disco-ima-neodimio-n35-niquel-20x1-5-mm-imashop-01.1b6b5988f832e1721c1a.webp",
+    "index.html": "/new-project/index.html",
+    "main.30e75066.css.map": "/new-project/static/css/main.30e75066.css.map",
+    "main.f093979f.js.map": "/new-project/static/js/main.f093979f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.30e75066.css",
+    "static/js/main.f093979f.js"
+  ]
+}
